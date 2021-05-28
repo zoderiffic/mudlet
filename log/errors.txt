@@ -1,0 +1,16 @@
+########################## Pre-Map loading(2) report ##########################
+================================== Map issues ==================================
+[ INFO ]  - Area id numbering is satisfactory.
+[ INFO ]  - Room id numbering is satisfactory.
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+================================= Area issues =================================
+================================= Room issues =================================
+################################ End of report ################################
+################# Loading map(2) at 2021-05-28T09:19:25 report #################
+================================== Map issues ==================================
+[ INFO ]  - Area id numbering is satisfactory.
+[ INFO ]  - Room id numbering is satisfactory.
+[  OK  ]  - Auditing of map completed (0.00s). Enjoy your game...
+================================= Area issues =================================
+================================= Room issues =================================
+################################ End of report ################################
